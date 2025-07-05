@@ -92,9 +92,6 @@ The included source code should allow you to build the solution without any init
 ---
 
 ## 📦 Downloads & Changelog
-
-* **V1.0.28 (Flectorite - Edits) - July 4th 2025**
-    * Added auto restart infiltration outpost (credit to **Athrun0001**)
       
 * **v1.0.27 (Flectorite) - July 2nd, 2025**
     * Initial release under the Flectorite name.
