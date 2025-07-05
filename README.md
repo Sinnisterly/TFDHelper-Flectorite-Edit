@@ -23,7 +23,16 @@ A key feature of Flectorite is its ability to prevent Black Cipher from launchin
 3.  You will find three IDs in this file. Randomly change a few letters and numbers within these IDs. **Do not alter the total length of the IDs.**
 4.  Save the `Settings.json` file. This will prevent EAC from properly connecting.
 
-### 2. Injection Process
+## 2. Building from Source
+
+To build the `Flectorite.dll` from the source code, please follow these steps:
+
+1.  Open the solution in Visual Studio. You can do this by clicking on **Code** and then **Open with Visual Studio**.
+2.  Set the build configuration to **Release** and the platform to **x64**.
+3.  Build the solution by navigating to **Build > Build Solution**.
+4.  Once the build is complete, you can find the **Flectorite.dll** file in the output folder.
+
+### 3. Injection Process
 
 **Note:** It is highly recommended to use **Extreme Injector v3.7.2 or v3.7.3** for the initial setup.
 
